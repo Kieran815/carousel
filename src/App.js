@@ -4,7 +4,8 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 import Fremen from './images/fremen.jpg';
 import Sandworms from './images/Sandworms.jpg';
 import Paul from './images/Paul.jpg';
-import Leto from './images/GodEmperorOfDune.jpg';
+import Leto from './images/Leto.jpg';
+import GodEmperor from './images/GodEmperorOfDune.jpg'
 import Spice from './images/SpiceMelange.jpg';
 
 let styles = {
@@ -41,6 +42,10 @@ function App() {
         <div>
           <img src={Leto} alt="Leto Atreides"/>
           <p className="legend">Leto Atreides, God Emperor of Dune</p>
+        </div>
+        <div>
+          <img src={GodEmperor} alt="God Emperor of Dune"/>
+          <p className="legend">God Emperor of Dune</p>
         </div>
         <div>
           <img src={Spice} alt="Spice Melange"/>
