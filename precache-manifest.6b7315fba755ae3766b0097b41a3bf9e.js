@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6eaa3daf9f1220392d675ffbb67e3e89",
+    "revision": "1887c69e6bd2e768788384f6c3ccad77",
     "url": "/carousel/index.html"
   },
   {
-    "revision": "d336d876e8026315f494",
+    "revision": "735694b7c3e47eb87f05",
     "url": "/carousel/static/css/2.fb346933.chunk.css"
   },
   {
-    "revision": "5f405e1db0366b1066aa",
+    "revision": "3c279dd7e614d502d4bd",
     "url": "/carousel/static/css/main.6413bfa0.chunk.css"
   },
   {
-    "revision": "d336d876e8026315f494",
-    "url": "/carousel/static/js/2.a87b535f.chunk.js"
+    "revision": "735694b7c3e47eb87f05",
+    "url": "/carousel/static/js/2.1bb7e6e4.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/carousel/static/js/2.a87b535f.chunk.js.LICENSE.txt"
+    "url": "/carousel/static/js/2.1bb7e6e4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5f405e1db0366b1066aa",
-    "url": "/carousel/static/js/main.5331dcc3.chunk.js"
+    "revision": "3c279dd7e614d502d4bd",
+    "url": "/carousel/static/js/main.ed037413.chunk.js"
   },
   {
     "revision": "45fcbf2647b7b5eeb003",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cce415c07774c901c8324f9aed70968d",
     "url": "/carousel/static/media/GodEmperorOfDune.cce415c0.jpg"
+  },
+  {
+    "revision": "dbb277d8e84f8258dbd9eef54212d467",
+    "url": "/carousel/static/media/Leto.dbb277d8.jpg"
   },
   {
     "revision": "9c8c98bde3b0cfa7f1af757490f49b80",

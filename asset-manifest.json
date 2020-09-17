@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/carousel/static/css/main.6413bfa0.chunk.css",
-    "main.js": "/carousel/static/js/main.5331dcc3.chunk.js",
-    "main.js.map": "/carousel/static/js/main.5331dcc3.chunk.js.map",
+    "main.js": "/carousel/static/js/main.ed037413.chunk.js",
+    "main.js.map": "/carousel/static/js/main.ed037413.chunk.js.map",
     "runtime-main.js": "/carousel/static/js/runtime-main.e91812ac.js",
     "runtime-main.js.map": "/carousel/static/js/runtime-main.e91812ac.js.map",
     "static/css/2.fb346933.chunk.css": "/carousel/static/css/2.fb346933.chunk.css",
-    "static/js/2.a87b535f.chunk.js": "/carousel/static/js/2.a87b535f.chunk.js",
-    "static/js/2.a87b535f.chunk.js.map": "/carousel/static/js/2.a87b535f.chunk.js.map",
+    "static/js/2.1bb7e6e4.chunk.js": "/carousel/static/js/2.1bb7e6e4.chunk.js",
+    "static/js/2.1bb7e6e4.chunk.js.map": "/carousel/static/js/2.1bb7e6e4.chunk.js.map",
     "index.html": "/carousel/index.html",
-    "precache-manifest.d5e76ec3b915b9b5973171358a8f6ade.js": "/carousel/precache-manifest.d5e76ec3b915b9b5973171358a8f6ade.js",
+    "precache-manifest.6b7315fba755ae3766b0097b41a3bf9e.js": "/carousel/precache-manifest.6b7315fba755ae3766b0097b41a3bf9e.js",
     "service-worker.js": "/carousel/service-worker.js",
     "static/css/2.fb346933.chunk.css.map": "/carousel/static/css/2.fb346933.chunk.css.map",
     "static/css/main.6413bfa0.chunk.css.map": "/carousel/static/css/main.6413bfa0.chunk.css.map",
-    "static/js/2.a87b535f.chunk.js.LICENSE.txt": "/carousel/static/js/2.a87b535f.chunk.js.LICENSE.txt",
+    "static/js/2.1bb7e6e4.chunk.js.LICENSE.txt": "/carousel/static/js/2.1bb7e6e4.chunk.js.LICENSE.txt",
     "static/media/GodEmperorOfDune.jpg": "/carousel/static/media/GodEmperorOfDune.cce415c0.jpg",
+    "static/media/Leto.jpg": "/carousel/static/media/Leto.dbb277d8.jpg",
     "static/media/Paul.jpg": "/carousel/static/media/Paul.9c8c98bd.jpg",
     "static/media/Sandworms.jpg": "/carousel/static/media/Sandworms.fa4c261c.jpg",
     "static/media/SpiceMelange.jpg": "/carousel/static/media/SpiceMelange.4297de17.jpg",
@@ -24,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.e91812ac.js",
     "static/css/2.fb346933.chunk.css",
-    "static/js/2.a87b535f.chunk.js",
+    "static/js/2.1bb7e6e4.chunk.js",
     "static/css/main.6413bfa0.chunk.css",
-    "static/js/main.5331dcc3.chunk.js"
+    "static/js/main.ed037413.chunk.js"
   ]
 }
